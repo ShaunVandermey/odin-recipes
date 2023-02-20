@@ -1,0 +1,30 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 4em;
+    font-weight: 700;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    font-size: 3em;
+    font-style: italic;
+    color: blue;
+    background-color: black;
+}
+
+h3{
+    font-size: 2em;
+    color: lightblue;
+    background-color: black;
+}
